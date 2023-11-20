@@ -1,0 +1,17 @@
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\bin\Debug\net7.0\GenerateUser.exe
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\bin\Debug\net7.0\GenerateUser.deps.json
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\bin\Debug\net7.0\GenerateUser.runtimeconfig.json
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\bin\Debug\net7.0\GenerateUser.dll
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\bin\Debug\net7.0\GenerateUser.pdb
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\bin\Debug\net7.0\Bogus.dll
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\GenerateUser.csproj.AssemblyReference.cache
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\GenerateUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\GenerateUser.AssemblyInfoInputs.cache
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\GenerateUser.AssemblyInfo.cs
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\GenerateUser.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\GenerateUser.csproj.CopyComplete
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\GenerateUser.dll
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\refint\GenerateUser.dll
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\GenerateUser.pdb
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\GenerateUser.genruntimeconfig.cache
+C:\Users\Виктория\RiderProjects\GenerateUser\GenerateUser\obj\Debug\net7.0\ref\GenerateUser.dll
